@@ -19,5 +19,5 @@ no_index:
     - inc
 requires:
   GD::Simple: 0
-  Test::More: 0
-version: 0.01
+  Test::More: 0.98
+version: 0.2

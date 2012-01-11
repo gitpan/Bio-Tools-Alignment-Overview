@@ -33,10 +33,10 @@
       "runtime" : {
          "requires" : {
             "GD::Simple" : 0,
-            "Test::More" : 0
+            "Test::More" : "0.98"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.2"
 }
