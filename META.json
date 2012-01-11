@@ -1,5 +1,5 @@
 {
-   "abstract" : "just another represetation for biolgical sequence alignment",
+   "abstract" : "just another represetation for biological sequence alignment.",
    "author" : [
       "Leprevost <leprevostfv@gmail.com>"
    ],
@@ -38,5 +38,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.2"
+   "version" : "0.22"
 }

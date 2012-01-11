@@ -1,5 +1,5 @@
 ---
-abstract: 'just another represetation for biolgical sequence alignment'
+abstract: 'just another represetation for biological sequence alignment.'
 author:
   - 'Leprevost <leprevostfv@gmail.com>'
 build_requires:
@@ -20,4 +20,4 @@ no_index:
 requires:
   GD::Simple: 0
   Test::More: 0.98
-version: 0.2
+version: 0.22
